@@ -1,4 +1,4 @@
-# 🧠 BrainBot - C Programming Answers Bot
+#  C Programming Answers Bot
 
 **BrainBot** is an intelligent chatbot that helps users learn and understand C programming concepts by answering their questions in real-time. Powered by the **Gemini API** (Google's large language model), this bot provides accurate, beginner-friendly, and detailed responses.
 
